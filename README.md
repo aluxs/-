@@ -6,3 +6,5 @@
 
 [高并发的概念](https://github.com/aluxs/Concurrent/wiki/%E9%AB%98%E5%B9%B6%E5%8F%91High-Concurrency)
 
+[并发的处理方案](https://github.com/aluxs/Concurrent/wiki/%E9%AB%98%E5%B9%B6%E5%8F%91High-Concurrency)
+
