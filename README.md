@@ -4,5 +4,5 @@
 [并发的概念](https://github.com/aluxs/Concurrent/wiki/%E5%B9%B6%E5%8F%91Concurrent)
 
 
-[高并发的概念](https://github.com/aluxs/Concurrent/wiki/%E9%AB%98%E5%B9%B6%E5%8F%91%EF%BC%88High-Concurrency))
+[高并发的概念](https://github.com/aluxs/Concurrent/wiki/%E9%AB%98%E5%B9%B6%E5%8F%91High-Concurrency)
 
