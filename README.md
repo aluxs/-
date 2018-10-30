@@ -30,7 +30,7 @@
 
 # Redis
 
-[Redis介绍]()
+[Redis介绍](https://github.com/aluxs/Concurrent/wiki/Redis)
 
 [Redis单机版安装及Java中的使用]()
 
