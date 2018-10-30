@@ -24,7 +24,7 @@
 
 [Nginx](https://github.com/aluxs/Concurrent/wiki/Nignx)
 
-#NoSQL
+# NoSQL
 
 [NoSQL介绍](https://github.com/aluxs/Concurrent/wiki/NoSQL)
 
