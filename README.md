@@ -28,9 +28,9 @@
 
 [Redis介绍]()
 
-[Redis单机版安装及Java中使用Redis]()
+[Redis单机版安装及Java中的使用]()
 
-[Redis集群版安装及java中的使用]()
+[Redis集群版安装及Java中的使用]()
 
 #集群
  
