@@ -15,6 +15,11 @@
 [进程与线程](https://github.com/aluxs/Concurrent/wiki/%E8%BF%9B%E7%A8%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B)
 
 
+# 负载均衡
+
+[负载均衡](https://github.com/aluxs/Concurrent/wiki/%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1)
+
+
 # Nginx
 
 [Nginx](https://github.com/aluxs/Concurrent/wiki/Nignx)
